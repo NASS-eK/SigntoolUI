@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("EasySign")]
-[assembly: AssemblyDescription("Graphical User Inteface for signtool.exe")]
+[assembly: AssemblyTitle("EasySignTool")]
+[assembly: AssemblyDescription("Grafische Oberfläche für signtool.exe")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Cyrix Solutions")]
-[assembly: AssemblyProduct("SignTool UI")]
-[assembly: AssemblyCopyright("Copyright © Cyrix Solutions 2013")]
+[assembly: AssemblyCompany("NASS e.K.")]
+[assembly: AssemblyProduct("EasySignTool")]
+[assembly: AssemblyCopyright("Copyright © NASS e.K. 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("0b6a3da7-c802-433e-870b-382e521f0c52")]
+[assembly: Guid("8d581450-4f48-4dc2-b6a4-9fcc3015e7db")]
 
 // Version information for an assembly consists of the following four values:
 //
